@@ -94,5 +94,5 @@ def print_sth():
 
 if __name__ == "__main__":
 	#get_captcha()
-	#log_in()
+	log_in()
 	print_sth()
